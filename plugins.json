@@ -1,0 +1,9 @@
+[
+  {
+    "id": "pr-lens",
+    "name": "PR Lens",
+    "author": "Tenjin Tech",
+    "description": "Agents draw each code change they make as one picture in the thread: new, changed and removed parts, and how they connect.",
+    "repo": "Tenjin-Tech/control-room-pr-lens"
+  }
+]
