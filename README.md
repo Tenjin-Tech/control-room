@@ -14,10 +14,9 @@ A plugin installs off. It runs only after you turn it on, and any change to its 
 
 ### Add yours
 
-1. Start from [control-room-sample-plugin](https://github.com/Tenjin-Tech/control-room-sample-plugin).
-2. Your repository holds `manifest.json` (`id`, `name`, `version`, `access: "full"`, `description`) and `main.js` at its root, plus a `README.md` and a `LICENSE`.
-3. Publish a GitHub release whose tag is the manifest's `version` (for example `0.1.0`). Control Room installs the files of that release.
-4. Open a pull request that adds an entry to `plugins.json`: `id` (the manifest's), `name`, `author`, `description`, `repo` (`owner/name`).
+1. Start from [control-room-sample-plugin](https://github.com/Tenjin-Tech/control-room-sample-plugin). The plugin API is in [docs/plugins.md](docs/plugins.md).
+2. Publish a GitHub release whose tag is the manifest's `version` (for example `0.1.0`), with the plugin's files attached. Control Room installs the files of that release.
+3. Open a pull request that adds an entry to `plugins.json`: `id` (the manifest's), `name`, `author`, `description`, `repo` (`owner/name`).
 
 Your README must say what the plugin sends over the network and why, and whether it needs an account or payment.
 
