@@ -2,6 +2,8 @@
 
 Multi-agent coordination for your Mac: Claude Code and Codex agents, each in its own worktree and thread.
 
+**[Get Control Room →](https://nightshiftfactory.com/controlroom/)** Free for macOS (Apple silicon): sign in with GitHub to download.
+
 ## Community plugins
 
 [`plugins.json`](plugins.json) lists the community plugins Control Room can install, in **Settings › Community plugins**.
