@@ -1,0 +1,29 @@
+name: Bug report
+description: Something in Control Room does not work
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What you did, what you expected, and what happened instead. A screenshot helps.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Control Room version
+      description: Control Room › About Control Room
+      placeholder: "0.1.11"
+    validations:
+      required: true
+  - type: input
+    id: macos
+    attributes:
+      label: macOS version
+      placeholder: "15.1"
+  - type: dropdown
+    id: agent
+    attributes:
+      label: Agent
+      options: [Claude Code, Codex, Hermes, Not about an agent]
