@@ -1,0 +1,16 @@
+name: Feature request
+description: Suggest a new feature or a change to one
+labels: [enhancement]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: The problem
+      description: What is slow, missing or in your way today?
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What you would like
+      description: The change you have in mind. Mockups and examples from other apps welcome.
