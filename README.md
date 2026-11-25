@@ -4,11 +4,9 @@
 
 A macOS app that runs Claude Code and Codex in parallel, each task in its own git worktree. It calls you only when an agent needs you, and each thread ends as a merged pull request.
 
-<!-- Demo video or GIF goes here. -->
-
 **[Get Control Room →](https://nightshiftfactory.com/controlroom/)** Free · macOS on Apple Silicon
 
-![New task: type what you want, link an issue, pick the model, Start](docs/images/new-task.png)
+![Threads move between Needs attention, Working and Done as agents work; an agent's question is answered in a click](docs/images/demo.gif)
 
 ![An agent's question, answered in a click](docs/images/question.png)
 
