@@ -8,7 +8,7 @@ A macOS app that runs Claude Code and Codex in parallel, each task in its own gi
 
 ![Threads move between Needs attention, Working and Done as agents work; an agent's question is answered in a click](docs/images/demo.gif)
 
-![An agent's question, answered in a click](docs/images/question.png)
+![An agent proposes a new thread with its brief written: Start thread, Open in New task, Run here or Create ticket](docs/images/proposal.png)
 
 ![The whole branch as one diff, with comments sent back to the agent](docs/images/diff.png)
 
