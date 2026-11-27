@@ -4,7 +4,7 @@
 
 A macOS app that runs Claude Code and Codex in parallel, each task in its own git worktree. It calls you only when an agent needs you, and each thread ends as a merged pull request.
 
-**[Get Control Room →](https://nightshiftfactory.com/controlroom/)** Free · macOS on Apple Silicon
+**[Get Control Room →](https://usecontrolroom.com/)** Free · macOS on Apple Silicon
 
 ![Threads move between Needs attention, Working and Done as agents work; an agent's question is answered in a click](docs/images/demo.gif)
 
@@ -33,7 +33,7 @@ A macOS app that runs Claude Code and Codex in parallel, each task in its own gi
 - **Designs you can click, diagrams you can read.** Agents show a new screen as a live mockup before they build it, and explain with Mermaid diagrams.
 - **Made for many agents.** With several Claude accounts, Auto starts each thread on the one with the most left before its reset. Threads can wait for each other, and agents can start and message other threads.
 
-Every feature: [nightshiftfactory.com/controlroom/features.html](https://nightshiftfactory.com/controlroom/features.html).
+Every feature: [usecontrolroom.com/features.html](https://usecontrolroom.com/features.html).
 
 ## Requirements
 
@@ -48,7 +48,7 @@ Every feature: [nightshiftfactory.com/controlroom/features.html](https://nightsh
 
 **Is it free?** Yes, for now: Control Room is free to download and use. You still pay your own agent providers, with the Claude and Codex subscriptions or API keys you already have. The app's code is closed; this repository (the plugin catalog and docs) is MIT.
 
-**Why sign in with GitHub to download?** It is how the app gets its updates: the same account connects Control Room to them. Any GitHub account works, it costs nothing, and the signed-in account has no access to anything else. See the [privacy policy](https://nightshiftfactory.com/controlroom/privacy.html).
+**Why sign in with GitHub to download?** It is how the app gets its updates: the same account connects Control Room to them. Any GitHub account works, it costs nothing, and the signed-in account has no access to anything else. See the [privacy policy](https://usecontrolroom.com/privacy.html).
 
 ## Feedback
 
@@ -74,7 +74,7 @@ Your README must say what the plugin sends over the network and why, and whether
 
 ## Links
 
-[Website](https://nightshiftfactory.com/controlroom/) · [Discussions](https://github.com/Tenjin-Tech/control-room/discussions) · [Legal notice](https://nightshiftfactory.com/controlroom/legal.html)
+[Website](https://usecontrolroom.com/) · [Discussions](https://github.com/Tenjin-Tech/control-room/discussions) · [Legal notice](https://usecontrolroom.com/legal.html)
 
 ## License
 
